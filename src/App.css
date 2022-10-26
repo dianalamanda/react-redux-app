@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.demo {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+button {
+  font-size: 2rem;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  padding: 5px;
+  background-color: #3C5186;
+  color: #FFF5DE;
+}
+
+td {
+  padding: 5px;
+}
